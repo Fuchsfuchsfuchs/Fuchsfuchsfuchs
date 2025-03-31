@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wohlauf! \(^^)/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuchsfuchsfuchs)](https://github.com/anuraghazra/github-readme-stats)
 
