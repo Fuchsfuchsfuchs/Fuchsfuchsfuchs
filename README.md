@@ -1,6 +1,6 @@
 ## Wohlauf! \(^^)/
 
-[FönixFogelFuchs GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fuchsfuchsfuchs)
+[![FönixFogelFuchs GitHub stats](https://github-stats-extended.vercel.app/api?username=Fuchsfuchsfuchs)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Fuchsfuchsfuchs/Fuchsfuchsfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
